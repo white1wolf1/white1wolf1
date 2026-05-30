@@ -4,18 +4,16 @@
 
 ---
 
-## 💫 About Me
+##  _About Me_
 
-Hi, I'm a Software Engineer 👩🏽‍💻  
-But you can call me **Weasel 🐈‍⬛**
+_Hi, I'm a Software Engineer_ 👩🏽‍💻  
+_But you can call me **Weasel_ 🐈‍⬛**
 
-🌱 Currently learning Python  
-🤖 Future goal: AI Specialist  
-🩵 Gaming | Coding | Animals  
+🌱 Currently learning Python 🌱 
+🤖 Future goal: AI Specialist 🤖
+🩵 Gaming | Coding | Animals 🩵
 🚩 Fun fact: My university didn’t teach me much, so I’m self-learning everything from scratch  
 
 ---
-
-## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/white1wolf1/white1wolf1/output/github-snake-dark.svg)
