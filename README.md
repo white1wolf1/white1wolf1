@@ -16,4 +16,6 @@ But you can call me **Weasel 🐈‍⬛**
 
 ---
 
-![snake gif](https://github.com/white1wolf1/white1wolf1/blob/output/github-snake-dark.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/white1wolf1/white1wolf1/output/github-snake-dark.svg)
