@@ -16,10 +16,4 @@ But you can call me **Weasel 🐈‍⬛**
 
 ---
 
-## 🪐 Space Terminal
-
-```txt
-> system: WHITE1WOLF1 ONLINE
-> mode: self-learning
-> universe: coding
-> goal: artificial intelligence
+![snake gif](https://github.com/white1wolf1/white1wolf1/blob/output/github-snake-dark.svg)
