@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src=".ezgif.com-optimize.gif" width="800"/>
+  <img src="./WHITE1WOLF1-ezgif.com-optimize.gif" width="800"/>
 </p>
 
 ---
