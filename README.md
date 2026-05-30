@@ -1,6 +1,8 @@
 
 
-![space banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a40&height=200&section=header&text=WHITE1WOLF1&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="WHITE1WOLF1-ezgif.com-optimize.gif" width="800"/>
+</p>
 
 ---
 
