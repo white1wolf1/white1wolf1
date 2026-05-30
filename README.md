@@ -8,6 +8,8 @@
 🌱 Currently learning Python 🌱 <br>
 🩵 Passionate about gaming, coding, and animals 🩵 <br> 
 🤖 Future goal: Using AI to revolutionize healthcare and improve human life 🤖   <br>
+🔍 Curious about how things work and how to make them better 🔍 <br>
+🐺 Turning coffee into code, one project at a time 🐺 <br>
 <br>
 🚩🚩🚩 My university didn’t teach me much, so I’m self-learning everything from scratch  
 
