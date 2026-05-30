@@ -7,13 +7,12 @@
 
 ##  _About Me_
 
-_Hi, I'm a Software Engineer_ 👩🏽‍💻  
-_But you can call me Weasel_ 🐈‍⬛
-
+_Hi, I'm a Software Engineer_ 👩🏽‍💻 
+_But you can call me Weasel_ 🐈‍⬛ 
 🌱 Currently learning Python 🌱 
-🤖 Future goal: AI Specialist 🤖
-🩵 Gaming | Coding | Animals 🩵
-🚩 Fun fact: My university didn’t teach me much, so I’m self-learning everything from scratch  
+🤖 Future goal: AI Specialist 🤖 
+🩵 Gaming | Coding | Animals 🩵 
+🚩🚩🚩 fact: My university didn’t teach me much, so I’m self-learning everything from scratch  
 
 ---
 
