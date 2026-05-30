@@ -1,4 +1,4 @@
-# 🌌 WHITE1WOLF1
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a40&height=200&section=header&text=WHITE1WOLF1&fontSize=40&fontColor=ffffff)
 
