@@ -4,14 +4,6 @@
 
 ---
 
-## 🧠 System Status
-
-🚀 Exploring the code universe  
-🌌 Building my own path from scratch  
-🤖 Future: AI Engineer  
-
----
-
 ## 💫 About Me
 
 Hi, I'm a Software Engineer 👩🏽‍💻  
