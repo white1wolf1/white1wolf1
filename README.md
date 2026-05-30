@@ -3,16 +3,13 @@
   <img src="./WHITE1WOLF1-ezgif.com-optimize.gif" width="8000"/>
 </p>
 
----
-
-##  _About Me_
-
-_Hi, I'm a Software Engineer_ 👩🏽‍💻 
-_But you can call me Weasel_ 🐈‍⬛ 
-🌱 Currently learning Python 🌱 
-🤖 Future goal: AI Specialist 🤖 
-🩵 Gaming | Coding | Animals 🩵 
-🚩🚩🚩 fact: My university didn’t teach me much, so I’m self-learning everything from scratch  
+<h2 align="center"><i>Hi, I'm a Software Engineer 👩🏽‍💻</i></h2>
+<h3 align="center"><i>But you can call me Weasel 🐈‍⬛</i></h3>
+🌱 Currently learning Python 🌱 <br>
+🩵 Passionate about gaming, coding, and animals 🩵 <br> 
+🤖 Future goal: Using AI to revolutionize healthcare and improve human life 🤖   <br>
+<br>
+_🚩🚩🚩 My university didn’t teach me much, so I’m self-learning everything from scratch_  
 
 ---
 
